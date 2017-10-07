@@ -225,10 +225,14 @@ h2.mobile:hover{
 	cursor:pointer;
 }
 
-h2.mobile:hover div.dropdown-content {
-    display: block;
+div.mobilemenu:hover div.dropdown-content{
+	display: block;
 }
 
+/*h2.mobile:hover div.dropdown-content {
+    display: block;
+}
+*/
 /*----------------------------------------*/
 
 
